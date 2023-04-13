@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442549891518",
+    "project_id": "planner-e1df8",
+    "storage_bucket": "planner-e1df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442549891518:android:875d12fef02ecfa1e749ef",
+        "android_client_info": {
+          "package_name": "com.example.ajanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442549891518-e96uradnji5cvrkqhm7mer0o4l6rvaec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIO5ENoUSvmQ-TGnUrO_GK0FM2me6Ilj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442549891518-e96uradnji5cvrkqhm7mer0o4l6rvaec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
